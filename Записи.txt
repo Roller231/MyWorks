@@ -1,0 +1,13 @@
+1838790070:AAFfinEtxnyB859b8eag0bhCa6Qj76960t4
+
+    klava=tipes.InlineKeyboardMarkup()
+    tlou=types.InlineKeboardButton(text="Tlou1/2",callback_data="tlou")
+    cup=types.InlineKeboardButton(text="Cuphead",callback_data="cup")
+    Witcher=types.InlineKeboardButton(text="The Witcher",callback_data="Witcher")
+    NFS=types.InlineKeboardButton(text="NFS",callback_data="NFS")
+    GTA=types.InlineKeboardButton(text="Tlou1/2",callback_data="tlou")
+    FarCry=types.InlineKeboardButton(text="Far cry",callback_data="Far cry")
+    Doom=types.InlineKeboardButton(text="Doom",callback_data="Doom")
+    Undertale=types.InlineKeboardButton(text="Undertale",callback_data="Undertale")
+    Mafia=types.InlineKeboardButton(text="Mafia",callback_data="Mafia")
+    Final=types.InlineKeboardButton(text="Final Fantasy",callback_data="Final")
